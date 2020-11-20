@@ -2,6 +2,8 @@ speak_to_grandma = gets.chomp
 
 if speak_to_grandma = "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY"
+elsif speak_to_grandma = "Hi!"
+  puts "HUH?! SPEAK UP, SONNY"
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
